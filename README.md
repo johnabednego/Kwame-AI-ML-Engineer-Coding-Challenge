@@ -13,7 +13,7 @@
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/johnabednego/Kwame-AI-ML-Engineer-Coding-Challenge.git
+    git clone https://github.com/johnabednego/question-answering-system.git
     cd question-answering-system
     ```
 
