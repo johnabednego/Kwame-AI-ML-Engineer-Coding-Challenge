@@ -1,7 +1,7 @@
 import openai
 
 # Set up your OpenAI API key
-openai.api_key = ''
+openai.api_key = 'YOUR_OPENAI_API_KEY'
 
 def generate_direct_answer(question, passages):
     # Construct a prompt with the question and passages
